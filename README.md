@@ -14,10 +14,6 @@
 9. week-9 (15-07-2019--21-07-2019): ​ Final report of the Project and last minute works. 
  
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Tech Stack
 1. HTML
 2. CSS
