@@ -29,12 +29,12 @@
 Please read [CONTRIBUTING.md](https://github.com/oss2019/SOI-19-docs/blob/master/Contribution-Guidelines.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Learning Resources
-HTML : https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72
-CSS : https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11
-BOOTSTRAP : https://medium.freecodecamp.org/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da
-JAVASCRIPT : https://github.com/twhite96/js-dev-reads
-DJANGO : https://docs.djangoproject.com/en/2.2/
-PYTHON : https://scotch.io/tutorials/getting-started-with-python-in-visual-studio-code
+1. HTML : https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72
+2. CSS: https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11
+3. BOOTSTRAP : https://medium.freecodecamp.org/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da
+4. JAVASCRIPT : https://github.com/twhite96/js-dev-reads
+5. DJANGO : https://docs.djangoproject.com/en/2.2/
+6. PYTHON : https://scotch.io/tutorials/getting-started-with-python-in-visual-studio-code
 
 ## Authors
 
